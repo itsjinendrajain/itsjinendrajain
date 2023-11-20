@@ -54,7 +54,3 @@
  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" height="25px"/>
 </p>
 
-## 📊 My GitHub Data:
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itsjinendrajain&show_icons=true&locale=en" alt="itsjinendrajain" /></p> <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itsjinendrajain&" alt="itsjinendrajain" /> </p>
